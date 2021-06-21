@@ -1,0 +1,462 @@
+This is e-upTeX, Version 3.14159265-p3.8.2-u1.25-190908-2.6 (utf8.uptex) (TeX Live 2019/Debian) (preloaded format=uplatex 2021.6.20)  21 JUN 2021 18:14
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**chclasses.dtx
+(./chclasses.dtx
+pLaTeX2e <2020-02-02u03>+2 (based on LaTeX2e <2020-02-02> patch level 2)
+L3 programming layer <2020-02-14>
+File: chclasses.dtx 2021/06/21 Lanlan's Chinese classes, from jsclasses (okumur
+a, texjporg)
+ (./charticle.cls
+Document Class: charticle 2021/06/21 Lanlan's Chinese classes, from jsclasses (
+okumura, texjporg)
+\jsc@mpt=\dimen150
+\jsc@mmm=\dimen151
+(/usr/share/texlive/texmf-dist/tex/latex/type1cm/type1cm.sty
+Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, p
+atched RF)
+)
+\jsc@smallskipamount=\skip47
+LaTeX Info: Redefining \textmc on input line 373.
+LaTeX Info: Redefining \textgt on input line 375.
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY2/mc/m/n --> JY2/gt/m/n on input line 437.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 631.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 631.
+\fullwidth=\dimen152
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 7.39746pt on input line 784.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 7.39746pt on input line 784.
+\c@part=\count166
+\c@section=\count167
+\c@subsection=\count168
+\c@subsubsection=\count169
+\c@paragraph=\count170
+\c@subparagraph=\count171
+\@abstractbox=\box61
+\c@figure=\count172
+\c@table=\count173
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\jsc@tocl@width=\dimen153
+\@lnumwidth=\dimen154
+\bibindent=\dimen155
+
+(/usr/share/texlive/texmf-dist/tex/platex/jsclasses/jslogo.sty
+Package: jslogo 2019/07/25 okumura, texjporg
+LaTeX Info: Redefining \TeX on input line 94.
+LaTeX Info: Redefining \LaTeX on input line 147.
+LaTeX Info: Redefining \LaTeXe on input line 200.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/doc.sty
+Package: doc 2019/12/16 v2.1l Standard LaTeX documentation package (FMi)
+\c@StandardModuleDepth=\count174
+\guard@level=\count175
+\MacrocodeTopsep=\skip50
+\MacroIndent=\dimen156
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 6.47278pt on input line 191.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 6.47278pt on input line 191.
+\macro@cnt=\count176
+\MacroTopsep=\skip51
+\index@excludelist=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count177
+\mult@box=\box62
+\multicol@leftmargin=\dimen157
+\c@unbalance=\count178
+\c@collectmore=\count179
+\doublecol@number=\count180
+\multicoltolerance=\count181
+\multicolpretolerance=\count182
+\full@width=\dimen158
+\page@free=\dimen159
+\premulticols=\dimen160
+\postmulticols=\dimen161
+\multicolsep=\skip52
+\multicolbaselineskip=\skip53
+\partial@page=\box63
+\last@line=\box64
+\maxbalancingoverflow=\dimen162
+\mult@rightbox=\box65
+\mult@grightbox=\box66
+\mult@gfirstbox=\box67
+\mult@firstbox=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\c@minrows=\count183
+\c@columnbadness=\count184
+\c@finalcolumnbadness=\count185
+\last@try=\dimen163
+\multicolovershoot=\dimen164
+\multicolundershoot=\dimen165
+\mult@nat@firstbox=\box106
+\colbreak@box=\box107
+\mc@col@check@num=\count186
+)
+\IndexMin=\dimen166
+\c@IndexColumns=\count187
+\GlossaryMin=\dimen167
+\c@GlossaryColumns=\count188
+\check@sum=\count189
+\bslash@cnt=\count190
+\wrong@table=\toks16
+\c@CodelineNo=\count191
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2020-02-03 L3 backend support: dvips
+\l__pdf_internal_box=\box108
+\g__pdf_backend_object_int=\count192
+\l__pdf_backend_content_box=\box109
+\l__pdf_backend_model_box=\box110
+\g__pdf_backend_annotation_int=\count193
+\g__pdf_backend_link_int=\count194
+\g__pdf_backend_link_sf_int=\count195
+)
+(./chclasses.aux)
+\openout1 = `chclasses.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+ (./chclasses.dtx
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 15.9785pt on input line 59.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 15.9785pt on input line 59.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 59.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 11.09619pt on input line 59.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 5.5481pt on input line 59.
+Package doc Info: Made | a short reference for \verb on input line 61.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 63.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 63.
+LaTeX Font Info:    Font shape `JT2/mc/b/n' in size <14.4> not available
+(Font)              Font shape `JT2/mc/bx/n' tried instead on input line 63.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' will be
+(Font)              scaled to size 13.31541pt on input line 63.
+LaTeX Font Info:    Font shape `JY2/mc/b/n' in size <14.4> not available
+(Font)              Font shape `JY2/mc/bx/n' tried instead on input line 63.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' will be
+(Font)              scaled to size 13.31541pt on input line 63.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 68.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 68.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 4.62341pt on input line 79.
+LaTeX Font Info:    Font shape `JT2/mc/b/n' in size <10> not available
+(Font)              Font shape `JT2/mc/bx/n' tried instead on input line 99.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' will be
+(Font)              scaled to size 9.24683pt on input line 99.
+LaTeX Font Info:    Font shape `JY2/mc/b/n' in size <10> not available
+(Font)              Font shape `JY2/mc/bx/n' tried instead on input line 99.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' will be
+(Font)              scaled to size 9.24683pt on input line 99.
+LaTeX Font Info:    Font shape `JT2/gt/b/n' in size <10> not available
+(Font)              Font shape `JT2/gt/bx/n' tried instead on input line 99.
+LaTeX Font Info:    Font shape `JT2/gt/bx/n' will be
+(Font)              scaled to size 9.24683pt on input line 99.
+LaTeX Font Info:    Font shape `JY2/gt/b/n' in size <10> not available
+(Font)              Font shape `JY2/gt/bx/n' tried instead on input line 99.
+LaTeX Font Info:    Font shape `JY2/gt/bx/n' will be
+(Font)              scaled to size 9.24683pt on input line 99.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 112.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 112.
+LaTeX Font Info:    Font shape `JT2/mc/m/sl' in size <9> not available
+(Font)              Font shape `JT2/mc/m/n' tried instead on input line 121.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 121.
+LaTeX Font Info:    Font shape `JY2/mc/m/sl' in size <9> not available
+(Font)              Font shape `JY2/mc/m/n' tried instead on input line 121.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 121.
+ [1
+
+]
+Underfull \hbox (badness 1303) in paragraph at lines 137--139
+[]\JY2/mc/m/n/10 本文档类的使用方法是 []\OT1/cmtt/m/n/10 \documentcla
+ss{jsarticle} \JY2/mc/m/n/10 或 []\OT1/cmtt/m/n/10 \documentclass[\JY2/gt/m/n/
+10 选
+ []
+
+[2] [3] [4] [5] [6]
+Overfull \hbox (22.01393pt too wide) in paragraph at lines 554--554
+ [][]\OT1/cmtt/m/sl/9 \DeclareOption{report}{\@reporttrue\@openrightfalse\@twos
+idefalse\@mparswitchfalse} 
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 558.
+
+[7] [8] [9] [10] [11]
+Overfull \hbox (50.36234pt too wide) in paragraph at lines 845--845
+ [][]\OT1/cmtt/m/n/9 %   \AtBeginDvi{\special{pdf: pagesize width \the\@tempdim
+a\space height \the\@tempdimb}} 
+ []
+
+[12] [13] [14]
+Underfull \hbox (badness 1292) in paragraph at lines 1031--1036
+[]\OT1/cmr/m/n/10 [2016-08-26] \JY2/mc/m/n/10 和欧文間の []\OT1/cmtt/m/n/1
+0 \xkanjiskip \JY2/mc/m/n/10 が入らない問題は ， \OT1/cmr/m/n/10 pl-fo
+nts.dtx v1.3i
+ []
+
+[15] [16] [17] [18] [19] [20] [21]
+Underfull \hbox (badness 1577) in paragraph at lines 1433--1437
+[]\OT1/cmr/m/n/10 [2003-06-30] \JY2/mc/m/n/10 数式に入るところで []\OT
+1/cmtt/m/n/10 \narrowbaselines \JY2/mc/m/n/10 を実行しているので
+ []
+
+[22]
+Overfull \hbox (16.62856pt too wide) in paragraph at lines 1490--1493
+[]\JY2/mc/m/n/10 数式の上のアキ （[]\OT1/cmtt/m/n/10 \abovedisplayskip\
+JY2/mc/m/n/10 ） ， 短い数式の上のアキ （[]\OT1/cmtt/m/n/10 \aboved
+isplayshortskip\JY2/mc/m/n/10 ） ，
+ []
+
+[23] [24] [25]
+LaTeX Font Info:    Font shape `JT2/mc/b/n' in size <12> not available
+(Font)              Font shape `JT2/mc/bx/n' tried instead on input line 1785.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' will be
+(Font)              scaled to size 11.09619pt on input line 1785.
+LaTeX Font Info:    Font shape `JY2/mc/b/n' in size <12> not available
+(Font)              Font shape `JY2/mc/bx/n' tried instead on input line 1785.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' will be
+(Font)              scaled to size 11.09619pt on input line 1785.
+
+Overfull \hbox (69.26212pt too wide) in paragraph at lines 1816--1816
+ [][]  \OT1/cmtt/m/n/9 \setlength\headheight{20\jsc@mpt}%% from 2\topskip (2016
+-08-17); from \topskip (2003-06-26) 
+ []
+
+[26] [27] [28]
+Overfull \hbox (102.33826pt too wide) in paragraph at lines 2019--2019
+ [][]\OT1/cmtt/m/sl/9 \addtolength{\textheight}{-10\jsc@mpt}%% from -\topskip (
+2016-10-08); from -\headheight (2003-06-26) 
+ []
+
+[29] [30]
+Overfull \hbox (97.61179pt too wide) in paragraph at lines 2130--2130
+ [][]  \OT1/cmtt/m/n/9 \addtolength\topmargin{-10\jsc@mpt}%% from -\topskip (20
+16-10-08); from -\headheight (2003-06-26) 
+ []
+
+[31] [32] [33] [34]
+Overfull \hbox (5.74602pt too wide) in paragraph at lines 2502--2502
+ [][]$\OMS/cmsy/m/n/9 h[]i$\OT1/cmtt/m/sl/9 \if@report \let\ps@plain\ps@plainfo
+ot \else \let\ps@plain\ps@plainhead \fi 
+ []
+
+[35] [36] [37] [38] [39]
+Overfull \hbox (35.13889pt too wide) in paragraph at lines 2792--2792
+ [][]$\OMS/cmsy/m/n/9 h[]i$    \OT1/cmtt/m/sl/9 \ifvoid\@abstractbox\else\cente
+rline{\box\@abstractbox}\vskip1.5em\fi 
+ []
+
+[40] [41] [42] [43]
+Overfull \hbox (55.4276pt too wide) in paragraph at lines 3074--3074
+ [][]$\OMS/cmsy/m/n/9 h[]i$\OT1/cmtt/m/sl/9 \renewcommand{\thesection}{\presect
+ionname\@arabic\c@section\postsectionname} 
+ []
+
+
+Overfull \hbox (27.07784pt too wide) in paragraph at lines 3074--3074
+ [][]$\OMS/cmsy/m/n/9 h[]i$\OT1/cmtt/m/sl/9 \renewcommand{\thesubsection}{\@ara
+bic\c@section.\@arabic\c@subsection} 
+ []
+
+[44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56]
+Overfull \hbox (7.83783pt too wide) in paragraph at lines 4032--4032
+ [][]    \OT1/cmtt/m/n/9 \ifodd\c@page\setcounter{page}\@ne\else\setcounter{pag
+e}\z@\fi %% 2017-02-24 
+ []
+
+[57] [58]
+
+LaTeX Font Warning: Font shape `JT2/gt/b/it' undefined
+(Font)              using `JT2/gt/b/n' instead on input line 4202.
+
+
+LaTeX Font Warning: Font shape `JY2/gt/b/it' undefined
+(Font)              using `JY2/gt/b/n' instead on input line 4202.
+
+LaTeX Font Info:    Font shape `JT2/gt/b/it' in size <10> not available
+(Font)              Font shape `JT2/gt/bx/n' tried instead on input line 4202.
+LaTeX Font Info:    Font shape `JT2/gt/bx/n' will be
+(Font)              scaled to size 9.24683pt on input line 4202.
+LaTeX Font Info:    Font shape `JY2/gt/b/it' in size <10> not available
+(Font)              Font shape `JY2/gt/bx/n' tried instead on input line 4202.
+LaTeX Font Info:    Font shape `JY2/gt/bx/n' will be
+(Font)              scaled to size 9.24683pt on input line 4202.
+LaTeX Font Info:    Font shape `JT2/mc/m/it' in size <10> not available
+(Font)              Font shape `JT2/mc/m/n' tried instead on input line 4204.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 4204.
+LaTeX Font Info:    Font shape `JY2/mc/m/it' in size <10> not available
+(Font)              Font shape `JY2/mc/m/n' tried instead on input line 4204.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 4204.
+[59] [60] [61] [62]
+Overfull \hbox (36.18881pt too wide) in paragraph at lines 4565--4565
+ [][]  \OT1/cmtt/m/sl/9 \ifdim\jsc@tocl@width<2zw \divide\jsc@tocl@width by 2 \
+advance\jsc@tocl@width 1zw\fi 
+ []
+
+
+Overfull \hbox (7.83905pt too wide) in paragraph at lines 4565--4565
+ [][]  \OT1/cmtt/m/sl/9 \ifdim\jsc@tocl@width<\@tempdima\relax\setlength\jsc@to
+cl@width{\@tempdima}\fi 
+ []
+
+
+Overfull \hbox (36.18881pt too wide) in paragraph at lines 4565--4565
+ [][]  \OT1/cmtt/m/sl/9 \ifdim\jsc@tocl@width<2zw \divide\jsc@tocl@width by 2 \
+advance\jsc@tocl@width 1zw\fi 
+ []
+
+[63]
+Overfull \hbox (31.46385pt too wide) in paragraph at lines 4624--4624
+ [][]      \OT1/cmtt/m/sl/9 % \if@english\setlength\@lnumwidth{5.5em}\else\setl
+ength\@lnumwidth{4.683zw}\fi 
+ []
+
+[64] [65] [66] [67] [68]
+Overfull \hbox (40.91245pt too wide) in paragraph at lines 5032--5032
+ [][]\OT1/cmtt/m/n/9 \newcommand{\indexspace}{\par \vskip 10\jsc@mpt \@plus5\js
+c@mpt \@minus3\jsc@mpt\relax} 
+ []
+
+LaTeX Font Info:    Font shape `JT2/gt/m/it' in size <10> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 5039.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 5039.
+LaTeX Font Info:    Font shape `JY2/gt/m/it' in size <10> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 5039.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 5039.
+[69] [70] [71]
+Overfull \hbox (234.6352pt too wide) in paragraph at lines 5238--5238
+ [][]  \OT1/cmtt/m/n/9 \expandafter\expandafter\expandafter\jsc@inhibitglue\exp
+andafter\meaning\expandafter\@let@token\KANJI@CHARACTER\relax\jsc@end} 
+ []
+
+
+Overfull \hbox (102.33673pt too wide) in paragraph at lines 5238--5238
+ [][]\OT1/cmtt/m/n/9 \expandafter\def\expandafter\jsc@inhibitglue\expandafter#\
+expandafter1\KANJI@CHARACTER#2#3\jsc@end{% 
+ []
+
+[72]
+Overfull \hbox (22.01266pt too wide) in paragraph at lines 5254--5254
+ [][]    \OT1/cmtt/m/n/9 \@restorepar\clubpenalty\@clubpenalty\everypar{\everyp
+arhook}\par\@endpefalse}% 
+ []
+
+
+Overfull \hbox (22.01266pt too wide) in paragraph at lines 5254--5254
+ [][]  \OT1/cmtt/m/n/9 \everypar{{\setbox\z@\lastbox}\everypar{\everyparhook}\@
+endpefalse\everyparhook}} 
+ []
+
+[73] [74]
+LaTeX Font Info:    Font shape `JT2/gt/b/n' in size <14.4> not available
+(Font)              Font shape `JT2/gt/bx/n' tried instead on input line 5403.
+LaTeX Font Info:    Font shape `JT2/gt/bx/n' will be
+(Font)              scaled to size 13.31541pt on input line 5403.
+LaTeX Font Info:    Font shape `JY2/gt/b/n' in size <14.4> not available
+(Font)              Font shape `JY2/gt/bx/n' tried instead on input line 5403.
+LaTeX Font Info:    Font shape `JY2/gt/bx/n' will be
+(Font)              scaled to size 13.31541pt on input line 5403.
+
+
+LaTeX Font Warning: Font shape `OT1/cmtt/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 5403.
+
+
+[75] [76]
+Overfull \hbox (12.56277pt too wide) in paragraph at lines 5544--5544
+ [][]\OT1/cmtt/m/n/9 \hyphenation{ado-be post-script ghost-script phe-nom-e-no-
+log-i-cal man-u-script} 
+ []
+
+[77]) [78] (./chclasses.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1113 strings out of 481765
+ 16511 string characters out of 5933692
+ 264769 words of memory out of 5000000
+ 16563 multiletter control sequences out of 15000+600000
+ 547879 words of font info for 107 fonts, out of 8000000 for 9000
+ 934 hyphenation exceptions out of 8191
+ 27i,7n,23p,209b,720s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on chclasses.dvi (78 pages, 235364 bytes).

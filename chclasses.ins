@@ -1,0 +1,15 @@
+\input docstrip
+\preamble
+
+Maintained on GitHub: https://github.com/texjporg/jsclasses
+
+\endpreamble
+
+\def\batchfile{jsclasses.ins}
+\input docstrip.tex
+\keepsilent
+\generateFile{charticle.cls}{f}{\from{chclasses.dtx}{class,article}}
+\generateFile{chbook.cls}{f}{\from{chclasses.dtx}{class,book}}
+\generateFile{chreport.cls}{f}{\from{chclasses.dtx}{class,report}}
+
+\endbatchfile
